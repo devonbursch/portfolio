@@ -1,6 +1,6 @@
 # portfolio
 
-# 👋 Hi, I'm Devon R.
+# 👋 Hi, I'm Devon B.
 
 Welcome to my general portfolio! I'm a tech-forward, efficiency-obsessed problem solver with a background in accounting, finance, and operations. This space reflects my ongoing transition into cloud product management, data-driven leadership, and technical project roles—where I merge business insight with scalable systems thinking.
 
